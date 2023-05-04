@@ -24,8 +24,9 @@ To do the simulation, you can create a new project using Proteus Professional or
 ![pins_configration](https://user-images.githubusercontent.com/131508098/236118119-e9468dd2-546f-406a-beab-55fc9f786bf4.jpg)
 * Using ADC(Analog Digital Convert).
 ![adc](https://user-images.githubusercontent.com/131508098/236118121-f570615e-3ab8-4bc6-a8a9-1f9f82c85361.jpg)
-* Select MDK_ARM and generate project
+* Select MDK_ARM and generate code.
 ![mdk_arm](https://user-images.githubusercontent.com/131508098/236118133-117532f8-657e-49c8-8c5f-66d973e71c66.jpg)
+* Proteus Simulation.
 ![proteus](https://user-images.githubusercontent.com/131508098/236118140-cbf7c19c-f57b-4c3f-804c-ce8983b9d9cb.jpg)
 
 # Feedback
