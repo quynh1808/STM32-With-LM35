@@ -24,6 +24,6 @@ Here are some pictures of the configuration steps for the STM342F103Cx, you can 
 ![proteus](https://user-images.githubusercontent.com/131508098/236118140-cbf7c19c-f57b-4c3f-804c-ce8983b9d9cb.jpg)
 
 # Feedback
-If you have any contribution to improve the project, please contact email: quynh.nm1808@gmail.com
+If you have any contribution to improve the project, please contact me by email: quynh.nm1808@gmail.com
 
 I will acknowledge and edit to make the project more complete.
