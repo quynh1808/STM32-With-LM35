@@ -15,7 +15,7 @@ To read temperature value from LM35 and display on LCD16x2 you have to create pr
 In the main.c file you need to write the functions as instructions. Besides, you need to add CLCD.C and CLCD.h libraries for LCD.
 To do the simulation, you can create a new project using Proteus Professional or use the file I uploaded. Note, my Proteus file is only for version 8.12 and above.
 
-# Here are some pictures of the configuration steps for the STM342F103Cx, you can refer to it for more information.
+ Here are some pictures of the configuration steps for the STM342F103Cx, you can refer to it for more information.
 * Using STM32F103Cx.
 ![step1](https://user-images.githubusercontent.com/131508098/236118061-d94da201-a745-4d3a-980c-34b9af911f9c.jpg)
 * In SYS, Select Serial Wire.
