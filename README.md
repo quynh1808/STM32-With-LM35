@@ -2,6 +2,7 @@
 Using STM32F103C8 read temperature value from LM35 and display it on LCD16x2.
 # Project Overview
 Note: This is just a simple sample code file, you can refer to it and customize it for your own purposes.
+
 The software for this project consists of 5 files:
 * main.c: this is the main file that read temperature from LM35 by ADC(Analog Digital Convert) and config LCD16x2.
 * STM32F103C8_LM35.ioc: this is the file config for STM32 using CubeMX.
